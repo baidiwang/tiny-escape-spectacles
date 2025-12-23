@@ -1,0 +1,17 @@
+# Lens Studio specific
+*.lsbackup
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+~*
+
+# Build files
+/Cache/
+/Logs/
+
+# Large assets
+# *.png
+# *.jpg
+# *.mp3
